@@ -1,0 +1,5 @@
+venv/ 
+creditcard.csv 
+*.dll 
+__pycache__/ 
+*.pyc 
